@@ -701,3 +701,14 @@ chapters:
       location:
             latitude: 38.8949549
             longitude: -77.0366456
+
+    - name: Maceió, AL, Brazil
+      website: maceio
+      image: pyladies_dc_atl_sea_tor.png
+      email: maceio@pyladies.com
+      twitter: PyLadiesMaceio
+      facebook: PyLadies Maceio
+      github: PyLadiesMaceio
+      location:
+            latitude: -9.66625
+            longitude:  -35.7351
