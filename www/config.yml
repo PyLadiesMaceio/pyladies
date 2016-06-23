@@ -351,6 +351,18 @@ chapters:
             latitude: 45.5115944
             longitude: -73.6051013
 
+    - name : Maceió, Brazil
+      meetup_id : 203416475
+      #wesite: maceio
+      #image: 
+      email: maceio@pyladies.com
+      twitter: PyLadiesMaceio
+      github: PyLadiesMaceio
+      facebook: PyLadies Maceio
+      location: 
+            latitude: -09° 39' 57''
+            longitude: -35° 44' 07''
+    
     - name: Morocco
       meetup_id: 193620926
       website: MA
